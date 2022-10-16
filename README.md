@@ -1,19 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Judy Carolina</h1>
 
 <div align="center">
-  <img src=" https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="600" height="300"/>
- 
+  <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761181f513f28607618ee2299a996c1b9db441882fb3&rid=giphy.gif&ct=g" width="300" height="150"/>
 </div>
 
 ---
 
 ### :woman_technologist: About me:
-<span align="left">
+
 - 👩🏻‍🦰 Hi! I'm Judy Carolina, better known as Caro.
 - 👩🏻‍💻 I'm a Front-End Developer from Peru.
 - 👯 I’m looking to collaborate on innovative proyects that allow me to be in constant growth an learning.
 - 📫 Contact me : <a href="mailto:palacios.carolia0@gmail.com">palacios.carolina0@gmail.com</a>  
-</span>
 
 ---
 
@@ -51,7 +49,7 @@
   <tr align=center >
   <td width="48%"  align=center><img src="https://github-readme-stats.vercel.app/api?username=Judypd&theme=tokyonight&count_private=true&showicons=true" /></td>
   <td width="48%" align=center ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd&layout=compact&langs_count=8&theme=tokyonight" />      </td>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd)](https://github.com/anuraghazra/github-readme-stats)
 </table>
   <tr align=center>
   	<td  align=center ><img  src="https://github-readme-streak-stats.herokuapp.com?user=Judypd&theme=tokyonight&hide_border=true" /></td>
