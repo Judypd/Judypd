@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Judy Carolina</h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761181f513f28607618ee2299a996c1b9db441882fb3&rid=giphy.gif&ct=g" width="400" height="200"/>
+  <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b761181f513f28607618ee2299a996c1b9db441882fb3&rid=giphy.gif&ct=g" width="400" height="250"/>
 </div>
 
 ---
@@ -51,13 +51,12 @@
   <table align=center >
   <tr align=center >
   <td width="48%"  align=center><img src="https://github-readme-stats.vercel.app/api?username=Judypd&theme=tokyonight&count_private=true&showicons=true" /></td>
-  <td width="48%" align=center ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd&layout=compact&langs_count=8&theme=tokyonight" />      </td>
+  <td width="48%" align=center ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd&layout=compact&langs_count=3&theme=tokyonight" />      </td>
  </table>
   <tr align=center>
   	<td  align=center ><img  src="https://github-readme-streak-stats.herokuapp.com?user=Judypd&theme=tokyonight&hide_border=true" /></td>
   </tr>
  </div>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd)](https://github.com/Judypd/github-readme-stats)
  
 --- 
 
