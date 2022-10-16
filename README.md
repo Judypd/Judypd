@@ -1,17 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Judy Carolina</h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9" width="600" height="300"/>
+  <img src=" https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="600" height="300"/>
+ 
 </div>
 
 ---
 
 ### :woman_technologist: About me:
 <span align="left">
-👩🏻‍🦰 Hi! I'm Judy Carolina, better known as Caro.
-👩🏻‍💻 I'm a Front-End Developer from Peru.
-👯 I’m looking to collaborate on innovative proyects that allow me to be in constant growth an learning.
-📫 Contact me : <a href="mailto:palacios.carolia0@gmail.com">palacios.carolina0@gmail.com</a>  
+- 👩🏻‍🦰 Hi! I'm Judy Carolina, better known as Caro.
+- 👩🏻‍💻 I'm a Front-End Developer from Peru.
+- 👯 I’m looking to collaborate on innovative proyects that allow me to be in constant growth an learning.
+- 📫 Contact me : <a href="mailto:palacios.carolia0@gmail.com">palacios.carolina0@gmail.com</a>  
 </span>
 
 ---
