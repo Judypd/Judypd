@@ -51,7 +51,7 @@
   <table align=center >
   <tr align=center >
   <td width="48%"  align=center><img src="https://github-readme-stats.vercel.app/api?username=Judypd&theme=tokyonight&count_private=true&showicons=true" /></td>
-  <td width="48%" align=center ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd&layout=compact&langs_count=5&theme=tokyonight" />      </td>
+  <td width="48%" align=center ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judypd&layout=compact&langs_count=8" /></td>
  </table>
   <tr align=center>
   	<td  align=center ><img  src="https://github-readme-streak-stats.herokuapp.com?user=Judypd&theme=tokyonight&hide_border=true" /></td>
