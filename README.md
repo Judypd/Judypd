@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<a href = "linkedin.com/in/-carolina-palacios"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "palacios.carolina0@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
+<a href = "goto:linkedin.com/in/-carolina-palacios"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+<a href = "mailto:palacios.carolina0@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
 
 </p>
